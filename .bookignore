@@ -1,0 +1,16 @@
+bin/
+lib/
+release/
+src/
+example/
+
+LICENSE
+package.json
+
+.bookignore
+.gitignore
+.gitattributes
+.babelrc
+
+server.js
+webpack.config.js
